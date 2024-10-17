@@ -1,0 +1,47 @@
+{
+  "organization": [
+    {
+      "key": "1",
+      "id": "1",
+      "companyName": "Najot Talim",
+      "inn": "222333658",
+      "status": "1",
+      "regionId": "1",
+      "regionPlace": "Tashkent",
+      "address": "Chilonzor 9kv",
+      "createdAt": "05.11.2018"
+    },
+    {
+      "key": "2",
+      "id": "2",
+      "companyName": "HardWork",
+      "inn": "112333658",
+      "status": "2",
+      "regionId": "2",
+      "regionPlace": "Samarqand",
+      "address": "Chilonzor 9kv",
+      "createdAt": "05.11.2015"
+    },
+    {
+      "id": "424b",
+      "key": 41,
+      "companyName": "sw",
+      "inn": "12345678",
+      "status": "1",
+      "regionId": 3,
+      "address": "33",
+      "createdAt": "2024-10-04"
+    },
+    {
+      "id": "7167",
+      "key": 63,
+      "companyName": "Turin polytechnic university",
+      "inn": "123456789",
+      "status": "1",
+      "regionId": 1,
+      "regionPlace": "Toshkent",
+      "address": "Kichik Xalqa Yo'li 17",
+      "createdAt": "2009-04-26"
+    }
+  ]
+}
